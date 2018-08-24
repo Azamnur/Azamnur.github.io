@@ -1,2 +1,2 @@
-# myeurodez.github.io
+# Azamnur.github.io
 мой хостинг
